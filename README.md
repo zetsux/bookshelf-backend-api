@@ -1,8 +1,7 @@
 # Bookshelf Backend API
 
 ## Description
-The Back-end API for the Final Project of A Beginner Back-end Application Course from Dicoding.
-Received full marks (5/5 Stars) after being reviewed by Dicoding
+The Back-end API for the Final Project of A Beginner Back-end Application Course from Dicoding which received full marks (5/5 Stars) after being reviewed by Dicoding
 
 ![Mark](https://cdn.discordapp.com/attachments/995337235211763722/1064934489505157200/image.png)
 
